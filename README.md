@@ -1,1 +1,1 @@
-# iOS-Reset-Mode-boot-USB-phone
+# iOS Reset Mode
